@@ -1,0 +1,13 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mediawiki-datatransfer
+Source: <url://example.com>
+
+Files: *
+Copyright: 2008-2017 Yaron Koren <yaron57@gmail.com> et al
+License: GPL-2.0+
+
+Files: debian/*
+Copyright: 2017 Will Aoki <waoki@umnh.utah.edu>
+License: GPL-2.0+
+
+

@@ -1,0 +1,15 @@
+Source: mediawiki-datatransfer
+Section: unknown
+Priority: optional
+Maintainer: Will Aoki <waoki@umnh.utah.edu>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: <insert the upstream URL, if relevant>
+
+Package: mediawiki-datatransfer
+Architecture: all
+Depends: ${misc:Depends}
+Description: Data Transfer extension for MediaWiki
+ Data Transfer is an extension to MediaWiki that allows users to both export
+ and import data from and to the wiki, with export done in XML format and
+ import possible in both XML, CSV and some spreadsheet formats.
