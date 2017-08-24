@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: mediawiki-datatransfer
-Source: <url://example.com>
+Upstream-Name: DataTransfer
+Source: <https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DataTransfer>
 
 Files: *
 Copyright: 2008-2017 Yaron Koren <yaron57@gmail.com> et al
