@@ -3,5 +3,6 @@
 .*.swp
 node_modules/**
 /vendor
+/composer.lock
 *.ex
 *.EX
